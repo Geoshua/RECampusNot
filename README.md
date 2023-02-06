@@ -1,12 +1,6 @@
-# CampusNotUnnoficial
-From the login (landing) page, there is a button leading to the map.
-http://clabsql.clamv.jacobs-university.de/~wblake/Assignment_11/
+# RECampusNot
+This is a continuation to the collab project Campus Not. All new addition will be of my own accord.
 
-We do have one unresolved problem; you need to enable location permissions. Please do this to test our map, then disable the permission afterwards.
-Optionally to ensure your security, you should close other clabsql pages, and check our uploaded code to see it is not malicious.
+The original repo is at https://github.com/originallyorange/CampusNotUnnofficial, credits to originallyorange and stefandr24.
 
-To enable / disable permissions for non-secure websites on chrome, you can visit:
-chrome://flags/#unsafely-treat-insecure-origin-as-secure
-and in the text-box write:
-http://clabsql.clamv.jacobs-university.de
-Then select enable/disable and relaunch the web browser. (there is a relaunch button on-screen).
+As of right now the website cannot run on its own as it was hosted by the clamV server at Constructor University and all backend code was meant for the server, changes are subject to due in some time.
